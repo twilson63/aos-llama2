@@ -1,3 +1,9 @@
+```
+NOTE: This repo is deprecated and no longer functional, it was experimental, please do not use.
+
+```
+
+
 # AOS-Llama
 
 <img src="https://raw.githubusercontent.com/samcamwilliams/aos-llama2/main/image.webp" width="200">
